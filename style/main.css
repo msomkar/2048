@@ -338,57 +338,42 @@ hr {
     background-size: 106.25px 106.25px;
     background-repeat: no-repeat; }
   .tile.tile-8 .tile-inner {
-    color: #f9f6f2;
-    background: #f2b179; }
+   background-image: url(https://lindamartin101.files.wordpress.com/2010/04/loquat-seedling.jpg);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
   .tile.tile-16 .tile-inner {
-    color: #f9f6f2;
-    background: #f59563; }
+   background-image: url(http://cdn2.thecreativefinder.com/userfiles/members/karenollis/17365/optimized-maxW950-CMA9322seedling72copy.jpg);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
   .tile.tile-32 .tile-inner {
-    color: #f9f6f2;
-    background: #f67c5f; }
+    background-image: url(http://weknowyourdreams.com/images/tree/tree-03.jpg);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
   .tile.tile-64 .tile-inner {
-    color: #f9f6f2;
-    background: #f65e3b; }
+    background-image: url(http://assets.worldwildlife.org/photos/946/images/story_full_width/forests-why-matter_63516847.jpg?1345534028);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
   .tile.tile-128 .tile-inner {
-    color: #f9f6f2;
-    background: #edcf72;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
-    font-size: 45px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-128 .tile-inner {
-        font-size: 25px; } }
+    background-image: url(https://s3-us-west-1.amazonaws.com/umbrella-blog-uploads/wp-content/uploads/2015/09/s3_proxy.png);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
+   
   .tile.tile-256 .tile-inner {
-    color: #f9f6f2;
-    background: #edcc61;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
-    font-size: 45px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-256 .tile-inner {
-        font-size: 25px; } }
+   background-image: url(http://www.searchpointer.com/blog/wp-content/uploads/2016/02/furniture-business-listing.jpg);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
   .tile.tile-512 .tile-inner {
-    color: #f9f6f2;
-    background: #edc850;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
-    font-size: 45px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-512 .tile-inner {
-        font-size: 25px; } }
+   background-image: url(http://www.clf.org/wp-content/uploads/2015/04/3315202046_2e3de9248b_z.jpg);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
   .tile.tile-1024 .tile-inner {
-    color: #f9f6f2;
-    background: #edc53f;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
-    font-size: 35px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-1024 .tile-inner {
-        font-size: 15px; } }
+   background-image: url(http://static3.depositphotos.com/1001195/267/i/950/depositphotos_2677106-Fire-and-ash.jpg);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
   .tile.tile-2048 .tile-inner {
-    color: #f9f6f2;
-    background: #edc22e;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-    font-size: 35px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-2048 .tile-inner {
-        font-size: 15px; } }
+    background-image: url(http://vignette2.wikia.nocookie.net/toptrumps/images/e/ed/Middle_finger.png/revision/latest?cb=20130526060219);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
