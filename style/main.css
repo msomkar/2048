@@ -327,10 +327,11 @@ hr {
     text-align: center;
     font-weight: bold;
     z-index: 10;
-    font-size: 55px; }
+    font-size: 1px; }
   .tile.tile-2 .tile-inner {
     background-image: url(https://rainintl.com/images/seeds/Single_Seed-copy.png);
-    background-repeat: no repeat;
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat;
 }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
