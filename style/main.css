@@ -334,8 +334,9 @@ hr {
     background-repeat: no-repeat;
 }
   .tile.tile-4 .tile-inner {
-    background: #ede0c8;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+    background-image: url(http://previews.123rf.com/images/studiobarcelona/studiobarcelona1202/studiobarcelona120200010/12486705-Small-newborn-plant-seedling-illustration-Stock-Vector-seed-growing-plant.jpg);
+    background-size: 106.25px 106.25px;
+    background-repeat: no-repeat; }
   .tile.tile-8 .tile-inner {
     color: #f9f6f2;
     background: #f2b179; }
